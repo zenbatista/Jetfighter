@@ -57,9 +57,9 @@
 			isa = PBXGroup;
 			children = (
 				E7238FC01FC4E96E0036C744 /* AppDelegate.swift */,
-				E7238FC21FC4E96E0036C744 /* art.scnassets */,
 				E7238FC41FC4E96E0036C744 /* ViewController.swift */,
 				E7238FC61FC4E96E0036C744 /* Main.storyboard */,
+				E7238FC21FC4E96E0036C744 /* art.scnassets */,
 				E7238FC91FC4E96E0036C744 /* Assets.xcassets */,
 				E7238FCB1FC4E96E0036C744 /* LaunchScreen.storyboard */,
 				E7238FCE1FC4E96E0036C744 /* Info.plist */,
@@ -279,10 +279,10 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = W94JTUT2T9;
+				DEVELOPMENT_TEAM = 9JCCFT2CXS;
 				INFOPLIST_FILE = Jetfighter/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.haraldbatistajetfighter.Jetfighter;
+				PRODUCT_BUNDLE_IDENTIFIER = com.haraldbatistajetfighter.Jetfighter2donnteatpeople;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -294,10 +294,10 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = W94JTUT2T9;
+				DEVELOPMENT_TEAM = 9JCCFT2CXS;
 				INFOPLIST_FILE = Jetfighter/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.haraldbatistajetfighter.Jetfighter;
+				PRODUCT_BUNDLE_IDENTIFIER = com.haraldbatistajetfighter.Jetfighter2donnteatpeople;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
